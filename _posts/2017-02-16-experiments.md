@@ -24,7 +24,7 @@ title: 서비스의 실험에 대한 이해
 
 >근사값 밖에 구할 수 없는 상황에서는 완벽한 정확성을 추구하는 것보다 가능한 수준의 정밀도로 만족하는 것이 지식인에게 필요한 태도다. – 아리스토텔레스
 
-##Reference
+## Reference
 
 Experimental Design Handbook: <http://www.itl.nist.gov/div898/handbook/pri/section1/pri11.htm>
 
