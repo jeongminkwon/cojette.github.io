@@ -31,12 +31,14 @@ permalink: /about/
 * R
 * Python
 * 번역
+* 맛있는 술
 * etc.
 
 # 관련 외부 물자 
 * 발표 및 작업 조각 모음
   * [GitHub](https://github.com/cojette)
   * [Measuring benefit effect for customer with bayesian prediction modeling](http://strataconf.com/big-data-conference-uk-2015/public/schedule/detail/39592), Strata+Hadoop World, 2015 May
+  
   * [Slides](http://www.slideshare.net/cojette)
 * [도서 작업 관련 모음-알라딘](http://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@2477250)
 * 오래 전의 조각글들
