@@ -26,6 +26,7 @@ permalink: /about/
 * 예측 분석
 * 기타 data mining 및 machine learning
 * 지표 및 측정 이론(Measurement theory)
+* 루이스 캐럴과 앨리스 시리즈
 * SF
 * 추리소설
 * ...그 외에도 책이라면 일단 좋음
