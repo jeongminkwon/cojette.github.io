@@ -34,12 +34,11 @@ permalink: /about/
 * etc.
 
 # 관련 외부 물자 
-* [Measuring benefit effect for customer with bayesian prediction modeling](http://strataconf.com/big-data-conference-uk-2015/public/schedule/detail/39592), Strata+Hadoop World, 2015 May 
-* [Think Bayes:파이썬을 활용한 베이지안 통계](http://www.hanbit.co.kr/book/look.html?isbn=978-89-6848-114-7)
-* [[The R BOOK]]
-* [빅데이터 분석 도구 R 프로그래밍](http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8960773336)
-* [R 기본 문법 및 통계 프로그래밍](http://www.imaso.co.kr/?doc=bbs/gnuboard.php&bo_table=article&page=149&wr_id=38069)
-* [GitHub](https://github.com/cojette)
+* 발표 및 작업 조각 모음
+  * [GitHub](https://github.com/cojette)
+  * [Measuring benefit effect for customer with bayesian prediction modeling](http://strataconf.com/big-data-conference-uk-2015/public/schedule/detail/39592), Strata+Hadoop World, 2015 May 
+  * [Slides](http://www.slideshare.net/cojette)
+* [도서 작업 관련 모음-알라딘](http://www.aladin.co.kr/author/wauthor_overview.aspx?AuthorSearch=@2477250)
 * 오래 전의 조각글들
   * [기사 번역](http://cojette-wiki.appspot.com/기사_번역)
   * [datum.io](http://datum.io)
