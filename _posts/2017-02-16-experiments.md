@@ -1,7 +1,4 @@
----
-title: The art of experiments in business
-layout: post
----
+
 
 # 서비스의 실험에 대한 이해
 
