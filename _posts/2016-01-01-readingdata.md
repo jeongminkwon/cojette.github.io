@@ -21,7 +21,7 @@ title: 데이터로 취미생활 관리하기 - 독서 편
 
 그런데 앱을 활용하니, 기본적으로 어떤 책들을 읽었고, 얼마나 책을 읽었는지 통계 수치를 내 주었다. 어차피 내가 수고롭게 신경쓸 필요가 없다보니, 그냥 재미로 가끔 보고는 했다.
 
-<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/GCcyYV2l91uvt0O5PonBy1et3Wo.png"  style="width: 300px;"/>
+<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/GCcyYV2l91uvt0O5PonBy1et3Wo.png"  style="width: 150px;"/>
 ![](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/cDlLxDycOrqj77oYsbWWrDscnus.png)
 
 
