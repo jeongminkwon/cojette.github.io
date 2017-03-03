@@ -21,21 +21,21 @@ title: 데이터로 취미생활 관리하기 - 독서 편
 
 그런데 앱을 활용하니, 기본적으로 어떤 책들을 읽었고, 얼마나 책을 읽었는지 통계 수치를 내 주었다. 어차피 내가 수고롭게 신경쓸 필요가 없다보니, 그냥 재미로 가끔 보고는 했다.
 
-<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/GCcyYV2l91uvt0O5PonBy1et3Wo.png"  style="width: 150px;"/>
-![](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/cDlLxDycOrqj77oYsbWWrDscnus.png)
+<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/GCcyYV2l91uvt0O5PonBy1et3Wo.png"  style="width:300px;"/>
+<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/cDlLxDycOrqj77oYsbWWrDscnus.png" style="width:300px;"/>
 
 
 그런데 **시간이 흐르고, 책의 기록이 쌓이고, 이는 일종의 시계열 데이터가 되었다. 게다가 하나의 플랫폼에 꾸준히 기록을 해왔기 때문에 데이터의 기간 면에서나,  품질 면에서나 신뢰성 있는 데이터가 되었다. 그러던 중 별 수고를 들이지 않아도 어떤 의미들이 나타나기 시작했다.**
 
 
-![](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/h2tV5NrxHBWn5IVmbnf5ebXOseI.png)
+<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/h2tV5NrxHBWn5IVmbnf5ebXOseI.png" style="width:300px;"/>
 
 
 
 추이그래프를 보다보니 에 따라서 '내가 이 달에는 왜 이렇게 못 읽었을까' '이 달은 무슨 일이 있던 것일까?' 하면서 독서 뿐만이 아니라 전반적인 생활을 돌아보게도 되고, '내가 이런 책을 읽으면 천천히 읽게 되는구나. 이런 책에 익숙하지 않은 걸까.' 라든가 '이 때에 무슨 일이 있어서 우울했는데 이런 경우에는 이런 식의 독서 패턴이 생기는구나' 라는 식의, 취미 생활에 대한 일종의 회고도 하게 된다.
 
 
-![](https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/PXDna-QtBuzPf_RK36eZ5K6j0Ww.png)
+<img src="https://t1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/guest/image/PXDna-QtBuzPf_RK36eZ5K6j0Ww.png" style="width:300px;"/>
 
 
 또한 별점 그래프의 변화 추이를 보면서 '점점 책을 고르는 눈이 생기는구나' 라든가 '너무 책을 편향적으로 읽는 게 아닐까?' 하는 등의 방식으로도 회고를 하게 된다.
